@@ -11,7 +11,7 @@
           fetch="git://codeaurora.org/" />
   <remote  name="linaro"
            fetch="git://android.git.linaro.org/" />
-  <default revision="ics_chocolate"
+  <default revision="refs/tags/android_4.0.1_r1"
            remote="caf"
            sync-j="4" />
 
